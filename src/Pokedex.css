@@ -1,0 +1,22 @@
+.Pokedex-cards {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.Pokedex-heading {
+  padding: 10px 0;
+}
+
+.Pokedex-heading,
+.Pokedex-total {
+  text-align: center;
+  color: #a8a8a8;
+}
+
+.winning-hand {
+  color: teal;
+}
+
+.losing-hand {
+  color: #992153;
+}
